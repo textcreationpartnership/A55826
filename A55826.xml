@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Paraphrase on the first and second chapters of the Lamentations of the prophet Jeremiah</title>
+         </titleStmt>
+         <extent>Approx. 20KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55826</idno><idno type="EEBO-CITATION">10758853</idno>
+  <idno type="VID">45680</idno>
+  <idno type="EEBO-PROQUEST">2240864978</idno>
+  
+            <idno type="STC">Wing P341A</idno>
+            <idno type="STC">ESTC R28770</idno>
+            <idno type="OCLC">10758853</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A55826)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45680)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1407:35)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Paraphrase on the first and second chapters of the Lamentations of the prophet Jeremiah</title>
+               </titleStmt>
+               <extent>18 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Corbet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45680:1"/>
+            <pb facs="tcp:45680:1"/>
+            <p>A PARAPHRASE <hi>ON THE</hi> FIRST and SECOND CHAPTERS <hi>OF THE</hi> Lamentations <hi>OF</hi> The Prophet JEREMIAH.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Charles Corbet</hi> at the <hi>Oxford-Arms</hi> in <hi>War<g ref="char:EOLhyphen"/>wick-Lane:</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:45680:2"/>
+            <pb n="3" facs="tcp:45680:2"/>
+            <div n="1" type="chapter">
+               <head>A PARAPHRASE On the First Chapter OF THE Lamentations.</head>
+               <lg>
+                  <l>INto what mournful Ruines art thou hurld,</l>
+                  <l>Thou (once) <hi>Metropolis</hi> of all the World?</l>
+                  <l>How are thy Foes become Heav'ns angry Rod,</l>
+                  <l>Tho' City of the living God!</l>
+                  <l>Now <hi>Desolations</hi> empty Name,</l>
+                  <l>Thy populous glory does disclaim.</l>
+                  <l>Those stately Mansions that did once protect</l>
+                  <l>The noble croud of the Elect.</l>
+                  <l>In a poor Widdow'd state art left alone,</l>
+                  <l>Haunted by <hi>Ghosts</hi> that in their tortures groan,</l>
+                  <l>All fill'd with dreadful <hi>Desolation.</hi>
+                  </l>
+                  <l>From the chief Throne of all Imperial sway,</l>
+                  <l>Next to the Empire of Eternal Day:</l>
+                  <l>From all the Glories this vain World could have,</l>
+                  <l>Thou'rt faln wretched tributary Slave.</l>
+               </lg>
+               <lg>
+                  <pb n="4" facs="tcp:45680:3"/>
+                  <l>The noiseful Days, the pleasant peaceful Nights,</l>
+                  <l>With all that Love, or Musicks skill incites;</l>
+                  <l>Voluptuous Feasts, gay Revels, warm with Wine,</l>
+                  <l>Must now their Mirth decline.</l>
+                  <l>The Scene is chang'd, Horrour appears;</l>
+                  <l>Past Joys dissolve to <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ighs and tears.</l>
+                  <l>Each Lover is divorc'd by his own grief,</l>
+                  <l>No Friend to Comfort or Relief.</l>
+                  <l>All the pretence of former Friendship's gon,</l>
+                  <l>Since Wealth no more will our Condition own;</l>
+                  <l>They knew too well we were undone.</l>
+                  <l>Those flattering Slaves for whose false friendship fed,</l>
+                  <l>And daily did subsist upon our bread,</l>
+                  <l>Whose lives it was our Charity to save,</l>
+                  <l>Are now the greatest Enemies we have.</l>
+               </lg>
+               <lg>
+                  <l>Our Kings are chain'd, while sad affliction drives</l>
+                  <l>Their Sons in bondage to preserve their lives.</l>
+                  <l>The Faithful to the Infidels are Slaves,</l>
+                  <l>Bound up in restless living-graves.</l>
+                  <l>New Persecutions on us wait,</l>
+                  <l>To make a wonder of our Fate.</l>
+                  <l>
+                     <hi>Sion</hi> is drown'd in sorrow, since no more</l>
+                  <l>Her Guests will come within her door:</l>
+                  <l>Her solemn Feasts are now grown desolate;</l>
+                  <l>No Peers attend, nor Princes dine in state;</l>
+                  <l>No poor are seen before her gate.</l>
+                  <l>The pensive Priests with their rich Vestments torn,</l>
+                  <l>O're the forsaken ruin'd Altars mourn.</l>
+                  <l>The pious Maids cannot (for weeping) pray;</l>
+                  <l>And all things seem like the last dreadful Day.</l>
+               </lg>
+               <lg>
+                  <pb n="5" facs="tcp:45680:3"/>
+                  <l>The proud tyrannick Foe now leads the Van;</l>
+                  <l>The Wrath of God to scourge the Rebel-man,</l>
+                  <l>With a successful Cruelty goes on</l>
+                  <l>To drive us to Destruction.</l>
+                  <l>Our Children are afflicted too,</l>
+                  <l>Not for their Faults, but what we do▪</l>
+                  <l>Forc'd from the Mothers arms the Infants cry,</l>
+                  <l>Unpitied by the Enemy.</l>
+                  <l>Daughters of <hi>Sion,</hi> all your beautie's gone▪</l>
+                  <l>The Ornament of the Imperial Throne,</l>
+                  <l>Is blasted with affliction.</l>
+                  <l>The banisht Princes, who were proud before,</l>
+                  <l>Your valid Name and Beauty to adore:</l>
+                  <l>No thoughts of Love now, or of Beauty have,</l>
+                  <l>But strive in pilgrimage to find a grave.</l>
+               </lg>
+               <lg>
+                  <l>O think no more upon those pleasures past,</l>
+                  <l>Now Death and Ruine hasten on so fast.</l>
+                  <l>Was it a comfort when those Angels fell</l>
+                  <l>From the bright Joys of Heaven to Hell;</l>
+                  <l>(Within that dreadful Goal of sin)</l>
+                  <l>To think what they had bin?</l>
+                  <l>Past Joys encrease the pains which we endure</l>
+                  <l>Above the Fansies foolish Cure.</l>
+                  <l>Painful Remembrance thou canst ne're restore</l>
+                  <l>The blessings we enjoy'd before,</l>
+                  <l>No! we must never see them more.</l>
+                  <l>The faithless Foes possess us as their own,</l>
+                  <l>
+                     <hi>Redemption</hi> is as dear as <hi>Mercy</hi> grown.</l>
+                  <l>While Infidels are made Heav'ns angry Rod,</l>
+                  <l>That mock our Sabbaths, and blaspheme our God.</l>
+               </lg>
+               <lg>
+                  <pb n="6" facs="tcp:45680:4"/>
+                  <l>Has the High-hand mistook? Has Heav'n for nought▪</l>
+                  <l>On our great City this Affliction wrought?</l>
+                  <l>No, 'twas the weighty Rubbish of thy sin,</l>
+                  <l>Proud Empress! thou ly'st buried in.</l>
+                  <l>Heav'n for thy Crimes, this Title gave,</l>
+                  <l>A Vagabond, a wandring slave.</l>
+                  <l>Thy life then <hi>Cain</hi>'s more perillous and dark,</l>
+                  <l>Thou hast not Heav'ns protecting mark;</l>
+                  <l>All thy past Honours like thy self are grown</l>
+                  <l>The vulgar Object of Derision.</l>
+                  <l>Pity her self leaves thee alone:</l>
+                  <l>Past Friends thy naked Poverty despise,</l>
+                  <l>Thou'rt grown too mean an Object for their Eyes;</l>
+                  <l>In tatterd Troops thy People take their flight,</l>
+                  <l>And sighing dread the <hi>Suns</hi> discovering light.</l>
+               </lg>
+               <lg>
+                  <l>Thy Rebel-sin like Leprosie abounds,</l>
+                  <l>Infectious Air the ruin'd Wall surrounds.</l>
+                  <l>Canst thou not think that one day thou must die▪</l>
+                  <l>Nor dream of vast Eternity?</l>
+                  <l>The strongest Cities are not free,</l>
+                  <l>From ruinous Mortality.</l>
+                  <l>Mountains by Earthquakes like deep Valleys lie,</l>
+                  <l>And sturdy Oaks by Lightning die:</l>
+                  <l>But thou frail Man made of the weakest Loom,</l>
+                  <l>How poor and feeble is thy state become,</l>
+                  <l>How sure thy dreadful day of Doom.</l>
+                  <l>Heav'n from its Mercy-seat may lend an ear,</l>
+                  <l>There's none but Heav'n to pity or to hear;</l>
+                  <l>For the usurping proud tyrannick Foe,</l>
+                  <l>Is deaf to Pity, and to Mercy slow.</l>
+               </lg>
+               <lg>
+                  <pb n="7" facs="tcp:45680:4"/>
+                  <l>The Jewels, Gold, the weighty rich Attire,</l>
+                  <l>With all that vain Ambition could desire:</l>
+                  <l>The Foes have seiz'd,</l>
+                  <l>And in their room have sent</l>
+                  <l>Hunger and Banishment.</l>
+                  <l>Curses and Stripes become our daily Food,</l>
+                  <l>Thus Evil is return'd for Good.</l>
+                  <l>Their wicked Feet prophanely trod▪</l>
+                  <l>Within the hallowed House of God.</l>
+                  <l>Nor could the Influence of the Sacred Law,</l>
+                  <l>Keep the proud daring Infidels in awe,</l>
+                  <l>Or tempt them to withdraw.</l>
+                  <l>In spight of Heav'ns Command they will rush in,</l>
+                  <l>And if Suspicion tell them 'tis a sin;</l>
+                  <l>They think it bravery, and Vertue too</l>
+                  <l>To sin against that God they never knew.</l>
+               </lg>
+               <lg>
+                  <l>What sighs and groans possess the troubled Air!</l>
+                  <l>What dreadful sounds of Horrour and Despair!</l>
+                  <l>What Discontent in every Face is read!</l>
+                  <l>Paleness and want of Bread.</l>
+                  <l>As if the State of Providence grew poor,</l>
+                  <l>And could assist no more.</l>
+                  <l>All that was gay, was rich and fine,</l>
+                  <l>Must now its valu'd▪ Pomp resign;</l>
+                  <l>And for pale Hunger, a kind Randsom give,</l>
+                  <l>The Vassal-body must the Soul relieve,</l>
+                  <l>Or else the Body cannot live.</l>
+                  <l>Look down great God with a propitious Eye,</l>
+                  <l>Upon our sins unheard of Misery:</l>
+                  <l>Pity this sordid Frame of living-dust,</l>
+                  <l>We own our Crimes, and thy Revenge is just.</l>
+               </lg>
+               <lg>
+                  <pb n="8" facs="tcp:45680:5"/>
+                  <l>How far from help is mans unhappy state,</l>
+                  <l>When once afflicted by the Frowns of Fate▪</l>
+                  <l>Shun'd like a mortal Plague▪ when we are poor,</l>
+                  <l>With <hi>Lord have mercy</hi> on our door.</l>
+                  <l>
+                     <hi>Adversity,</hi> thou unregarded Wretch, thou Thief,</l>
+                  <l>That dost from <hi>Pity</hi> force <hi>Relief.</hi>
+                  </l>
+                  <l>The Miseries to which we bow,</l>
+                  <l>Do no Comparison allow.</l>
+                  <l>
+                     <hi>Times Record</hi> can't to Memory recal,</l>
+                  <l>That e're such Ruine did Mankind befal,</l>
+                  <l>Since the great Deluge swallow<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d all.</l>
+                  <l>Draw neer ye men untoucht, with pity view,</l>
+                  <l>The patient <hi>Jo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> ne're such affliction knew.</l>
+                  <l>Th'row this Worlds mist I nothing see or know,</l>
+                  <l>But endless Miracles of grief and woe.</l>
+               </lg>
+               <lg>
+                  <l>The mighty▪ Warriers grovelling for breath,</l>
+                  <l>Lay their rich Targets by, and wish for death:</l>
+                  <l>Too well they knew 'twas Heav'ns strong aid,</l>
+                  <l>This mighty Victory had made.</l>
+                  <l>To ruine all concur,</l>
+                  <l>Councils and Act of War.</l>
+                  <l>Where new Religion Conquest does pursue,</l>
+                  <l>All former safety bids adieu.</l>
+                  <l>The beauteous Youths are tortur'd out of shape,</l>
+                  <l>The trembling Virgins striving to escape,</l>
+                  <l>Are torn and murderd in a Rape.</l>
+                  <l>Gush out my Eyes, let all thy Streams o're-flow,</l>
+                  <l>Death is a Heav'n, thither will I go;</l>
+                  <l>Since thou'rt depriv'd of all thy Maker gave,</l>
+                  <l>Beg him to send thee weeping to thy grave.</l>
+               </lg>
+               <lg>
+                  <pb n="9" facs="tcp:45680:5"/>
+                  <l>Must I still linger on? Must I still dwell</l>
+                  <l>In this sad Purgatory shade of Hell?</l>
+                  <l>O murmur not thou vile impatient dust,</l>
+                  <l>For he that punishes is just.</l>
+                  <l>Convicted Rebels must not grudge,</l>
+                  <l>The Sentence of a righteous Judge;</l>
+                  <l>Or think the Law should our vain hopes fulfill,</l>
+                  <l>When Proof declares the Cause was ill.</l>
+                  <l>I'le suffer on, what e're I'm to receive,</l>
+                  <l>Shouldst thou this Life unto my Deaths-man give,</l>
+                  <l>I'de thank, and still believe.</l>
+                  <l>Yet as I'm flesh and blood, I must complain;</l>
+                  <l>Words are extorted by excess of pain:</l>
+                  <l>I mourn and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>igh with penetential breath,</l>
+                  <l>And living find some ease in hopes of death.</l>
+               </lg>
+               <lg>
+                  <l>Are all those small remainders of delight,</l>
+                  <l>My Lovers gone? Do they avoid my sight?</l>
+                  <l>The more I call the farther off they fly,</l>
+                  <l>I'm old and full of poverty.</l>
+                  <l>And now to th' heedless World am left behind,</l>
+                  <l>A World that's naturally unkind;</l>
+                  <l>Unkind to Strangers nearest Friends,</l>
+                  <l>To all but its own private ends.</l>
+                  <l>The pious Priests with empty prayers are fed,</l>
+                  <l>The reverend Elders sigh and drop down dead,</l>
+                  <l>In their own Cities begging bread.</l>
+                  <l>Their Sons who seek their freedom to regain.</l>
+                  <l>Shun homebred Woes to be in Battel slain.</l>
+                  <pb n="10" facs="tcp:45680:6"/>
+                  <l>Thus Death stands double arm'd for each man's doom▪</l>
+                  <l>What scapes the Sword, Famine destroys at home.</l>
+               </lg>
+               <lg>
+                  <l>Our sighs are mockt, our prayers are turn'd to scorn,</l>
+                  <l>The cruel Foes rejoyce to hear us mourn;</l>
+                  <l>Yet our prophetick hope foretels one day</l>
+                  <l>Shall drive these Storms away:</l>
+                  <l>When <hi>Indignation</hi> shall give place</l>
+                  <l>To <hi>Mercie's</hi> milder Face.</l>
+                  <l>And this promiscuous Overflow divide,</l>
+                  <l>By turning back the angry Tyde</l>
+                  <l>To their first Center; <hi>Plagues</hi> shall be confin'd,</l>
+                  <l>And leave no footsteps of their rage behind;</l>
+                  <l>All shall be calm, and Heav'n be kind.</l>
+                  <l>Punish the <hi>Punishers,</hi> reduce their pow'rs,</l>
+                  <l>Let their Condition level be with ours:</l>
+                  <l>And tho' we seem the second fall of man,</l>
+                  <l>Raise us unto our first <hi>Meridian.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="chapter">
+               <pb n="11" facs="tcp:45680:6"/>
+               <head>A PARAPHRASE <hi>ON THE</hi> Second Chapter.</head>
+               <lg>
+                  <l>THE beauteous Heav'n has withdrawn its Light,</l>
+                  <l>The glorious Sun looks down no more,</l>
+                  <l>With the same Face it did before;</l>
+                  <l>A gloomy darkness checks the Rays</l>
+                  <l>About his sullen Face,</l>
+                  <l>And makes a sad resemblance of Night.</l>
+                  <l>Unhappy Land, that Cloud thou dost espy,</l>
+                  <l>Thro'w the false Optick of the Eye,</l>
+                  <l>Paints out thy sinful misery.</l>
+                  <l>The frowning Heav'ns are angry grown,</l>
+                  <l>A general Ruine is design'd,</l>
+                  <pb n="12" facs="tcp:45680:7"/>
+                  <l>On the whole Race of Humane-kind;</l>
+                  <l>From the poor Cripple's Chair, to the gay glittering Throne.</l>
+               </lg>
+               <lg>
+                  <l>Down with the Bulwarks of Defence,</l>
+                  <l>The Palaces with Pinnacles of Gold,</l>
+                  <l>Of true <hi>Mosaick</hi> mould.</l>
+                  <l>The gaudy Silk-worms drag from thence,</l>
+                  <l>Rifle the <hi>Jezabels</hi> of all their pride,</l>
+                  <l>From the smooth Matron, to the thoughtful Bride.</l>
+                  <l>In baneful Dens and Caverns let them dwell.</l>
+                  <l>And if the mercy of the Sword</l>
+                  <l>They shun, Fire is the word</l>
+                  <l>Of every Palace make a monumental Hell.</l>
+               </lg>
+               <lg>
+                  <l>Who can resist the terrible Decree,</l>
+                  <l>Of an incensed Deity?</l>
+                  <l>Urg'd by such Crimes as in defiance stand,</l>
+                  <l>Of Heav'ns revenging hand.</l>
+                  <l>When Prayers and Penitence might restore</l>
+                  <l>The Mercies we enjoyd before;</l>
+                  <l>Or save some portion of a sinful land.</l>
+                  <l>To what ill end the will of man is giv'n,</l>
+                  <l>That does against himself conspire,</l>
+                  <l>That from above will call down fire,</l>
+                  <l>And make a mortal Enemy of Heav'n.</l>
+               </lg>
+               <lg>
+                  <l>What Desolation will ensue,</l>
+                  <l>If Heav'ns protection bids adieu,</l>
+                  <pb n="13" facs="tcp:45680:7"/>
+                  <l>What can our Prayers or Sacrifices do?</l>
+                  <l>Our Temples and our Altars are in vain,</l>
+                  <l>If the Almighty power disdain;</l>
+                  <l>If he despise</l>
+                  <l>The Oblation of an humble Sacrifice▪</l>
+                  <l>Expos'd to every vulgar scorn;</l>
+                  <l>Depriv'd the benefit of prayer,</l>
+                  <l>Curs'd into ruine and despair;</l>
+                  <l>Reproach to man, of just Heav'n forlorn.</l>
+               </lg>
+               <lg>
+                  <l>Alas! Remorse comes now too late;</l>
+                  <l>The active Angel all the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aste about,</l>
+                  <l>Has our Destruction-measur<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> out:</l>
+                  <l>And <hi>Wrath</hi> against <hi>Repentance</hi> shut the Gate.</l>
+                  <l>The Earth with a prophetick fear does quake▪</l>
+                  <l>The strong Foundations seem to shake.</l>
+                  <l>The brazen Gates in heaps of Rubbish lie,</l>
+                  <l>With Capitals of broken Pillars by.</l>
+                  <l>Here lies rich Carv'd Work, there an Antick Roof,</l>
+                  <l>Hangs in destructive Geometry above.</l>
+                  <l>Thro'gh whose slight Labyrinths Snakes and Lizards creep,</l>
+                  <l>In Princes Chambers the Night-Ravens sleep.</l>
+               </lg>
+               <lg>
+                  <l>Such a Destruction does pursue</l>
+                  <l>The Princes your Inhabitants of old,</l>
+                  <l>That deckt you up in Ornaments of Gold;</l>
+                  <l>And all your flourishing state of Beauty knew,</l>
+                  <l>Alas! they are ruin'd too.</l>
+                  <pb n="14" facs="tcp:45680:8"/>
+                  <l>Dragg'd by the <hi>Pagan</hi> Foe, in Fetters bound,</l>
+                  <l>Sit sighing on the barren ground.</l>
+                  <l>To Mercy, Law, and Justice they complain,</l>
+                  <l>Their Cries are heard in vain:</l>
+                  <l>No hopes of mercy will their Foes afford,</l>
+                  <l>The Laws are quite abolisht by the Sword.</l>
+               </lg>
+               <lg>
+                  <l>No Revelations▪ now, or Visions more.</l>
+                  <l>Only our present misery we know,</l>
+                  <l>The Divine Oracles have given o're</l>
+                  <l>Their Correspondence here below:</l>
+                  <l>A pensive horrour, and am<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ng fear,</l>
+                  <l>O're all the troubled Land appear.</l>
+                  <l>A mournful silence sits on every Tongue,</l>
+                  <l>Grief on the Old, and fear upon the Young;</l>
+                  <l>Sackcloath and Ashes on their Heads they wear,</l>
+                  <l>To add more weight unto the Griefs they bear.</l>
+               </lg>
+               <lg>
+                  <l>By constant weeping all my Tears are spent,</l>
+                  <l>The Fountain will afford no more;</l>
+                  <l>My heart is wounded, and my bowels rent,</l>
+                  <l>The Earth is glutted with my goar.</l>
+                  <l>What Miracles does my Relief deny?</l>
+                  <l>Life I abhor, and yet I cannot die.</l>
+                  <l>Happy the Infant whom kind Chance does save,</l>
+                  <l>From living to his grave;</l>
+                  <l>That makes in his kind Mothers Womb,</l>
+                  <l>At once his Cradle and his Tomb:</l>
+                  <pb n="15" facs="tcp:45680:8"/>
+                  <l>Never design'd this work to know,</l>
+                  <l>Nor that curss'd gift of Life we undergo.</l>
+               </lg>
+               <lg>
+                  <l>The harmless Infants daily do partake</l>
+                  <l>Of our too knowing sins the pain,</l>
+                  <l>Alas! they suffer for our sake,</l>
+                  <l>Original sin still keeps the stain:</l>
+                  <l>In vain their tender Cries call for relief,</l>
+                  <l>The Mothers Milk is dry'd up by her grief,</l>
+                  <l>And nought but tears remain;</l>
+                  <l>Which like refreshing drops of Rain:</l>
+                  <l>The Innocents with thirst and hunder seek,</l>
+                  <l>Pressing their mouths upon the Mothers Cheek;</l>
+                  <l>Then faint and out of breath,</l>
+                  <l>Resign their tender Souls to peaceful Death.</l>
+               </lg>
+               <lg>
+                  <l>The bigger sort, whom wretched life affords</l>
+                  <l>Time to express their misery in words;</l>
+                  <l>Of their own Parents beg for bread:</l>
+                  <l>An Alms that ne're refus'd before,</l>
+                  <l>The lazy Beggar at the door,</l>
+                  <l>The troubled Father turns away his head,</l>
+                  <l>To hear the sad and helpless cry,</l>
+                  <l>Dares not (what he cannot give) deny.</l>
+                  <l>The beauteous▪ Forms a meager paleness seize,</l>
+                  <l>Hunger their pain, and Famine their disease.</l>
+                  <l>With starv'd dry bodies all the streets are spread,</l>
+                  <l>The Grave denies the lodging of the Dead.</l>
+               </lg>
+               <lg>
+                  <pb n="16" facs="tcp:45680:9"/>
+                  <l>Daughter of <hi>Sion!</hi>
+                  </l>
+                  <l>Not all the works of Fate,</l>
+                  <l>Wrought by an angry Deity;</l>
+                  <l>Nor Story can from first of Time relate,</l>
+                  <l>Such dire example of thy misery.</l>
+                  <l>The happy or unhappy are not known,</l>
+                  <l>But by comparison.</l>
+                  <l>And as we good and evil weigh,</l>
+                  <l>We find the difference in some strong allay:</l>
+                  <l>Some hopes of comfort yet might be,</l>
+                  <l>Could that be found in thee.</l>
+                  <l>Thy dangers are superlatively ill,</l>
+                  <l>Beyond kind Natures search, or Reasons skill.</l>
+               </lg>
+               <lg>
+                  <l>The cruel Strangers that pass by,</l>
+                  <l>Make sports and jests upon our misery.</l>
+                  <l>Where is that famous City now? the Crown</l>
+                  <l>Of Empire, the whole Worlds Renown?</l>
+                  <l>Your Habitations we do much adore;</l>
+                  <l>The Heav'ns your Roof, the embroidred Earth your Floor.</l>
+                  <l>If you great Honours will allow,</l>
+                  <l>The favour that we may behold,</l>
+                  <l>Your Palaces adorn'd with Gold;</l>
+                  <l>With thankful pleasure we shall humbly bow,</l>
+                  <l>For we have heard your mighty Fame of old.</l>
+               </lg>
+               <lg>
+                  <l>Thus in a scurrillous inhumane pride,</l>
+                  <pb n="17" facs="tcp:45680:9"/>
+                  <l>They glory in the witness of our doom,</l>
+                  <l>And Curse, and with more Ills to come,</l>
+                  <l>If more could man betide.</l>
+                  <l>But 'tis enough, and what can we fear more,</l>
+                  <l>If Heaven has given us o're.</l>
+                  <l>'Tis the great Power's Will to punish thus</l>
+                  <l>A wretched sinful Land,</l>
+                  <l>And put his Sword of Justice in their hand,</l>
+                  <l>They hate him ten times more than they do us.</l>
+               </lg>
+               <lg>
+                  <l>Great God! in this extremity of need,</l>
+                  <l>Let our last prayers acceptance find:</l>
+                  <l>Thy <hi>Mercy</hi> for thy <hi>Justice</hi> does exceed</l>
+                  <l>Afflictions humble and reform the mind.</l>
+                  <l>Let mournful Penitence thy mercy move,</l>
+                  <l>Let streams of Tears regain thy love.</l>
+                  <l>Let prayers and hourly watchings ne'r depart,</l>
+                  <l>N<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r Sorrows from a broken contrite heart.</l>
+                  <l>Till thou redeem our Friends, our Children, Wives,</l>
+                  <l>Those Comforts dearer to us then our lives.</l>
+               </lg>
+               <lg>
+                  <l>Look down, great God! with compassion view,</l>
+                  <l>What raging Famine does compel us to;</l>
+                  <l>Must the young Off-spring thou hast sent,</l>
+                  <l>Be buried in a living Monument?</l>
+                  <l>The Mother whose indulgent Brest,</l>
+                  <l>Us'd to afford both Food and gentle rest:</l>
+                  <l>Now makes a Prey of what she fed before;</l>
+                  <l>She eats the tender and abortive Food,</l>
+                  <pb n="18" facs="tcp:45680:10"/>
+                  <l>Between her Jaws, the gristles, brains, and goar,</l>
+                  <l>She grinds and gluts her self with her own Infants blood.</l>
+               </lg>
+               <lg>
+                  <l>The Priest before the Sacred Altar lies</l>
+                  <l>To humane rage a bloody Sacrifice.</l>
+                  <l>The Prophet lies i'th' Sanctuary dead,</l>
+                  <l>Bathing in his own blood his hoary head:</l>
+                  <l>Promiscuous slaughters all the City round,</l>
+                  <l>Lie scatterd on the ground.</l>
+               </lg>
+               <lg>
+                  <l>The impartial Sword spares no degree of life,</l>
+                  <l>From the young Virgin to the aged Wife:</l>
+                  <l>Nor the least pity or remorse is shown,</l>
+                  <l>From the first shriek to the last dying groan.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:45680:10"/>
+         </div>
+      </body>
+   </text>
+</TEI>
